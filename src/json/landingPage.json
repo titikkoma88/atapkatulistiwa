@@ -68,34 +68,34 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-1.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Dempo",
+          "imageUrl": "/images/mt_dempo.jpg",
+          "country": "South Sumatera",
+          "city": "Palembang",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-2.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Singgalang",
+          "imageUrl": "/images/mt_singgalang.jpg",
+          "country": "West Sumatera",
+          "city": "Padang",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-3.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Toba",
+          "imageUrl": "/images/mt_toba.jpg",
+          "country": "North Sumatera",
+          "city": "Medan",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-4.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Leuser",
+          "imageUrl": "/images/mt_leuser.jpg",
+          "country": "Aceh",
+          "city": "Gayo Lues",
           "isPopular": false
         }
       ]
@@ -106,34 +106,34 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-5.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Slamet",
+          "imageUrl": "/images/mt_slamet.jpg",
+          "country": "Central Java",
+          "city": "Purbalingga",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-6.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Ciremai",
+          "imageUrl": "/images/mt_ciremai.jpg",
+          "country": "West Java",
+          "city": "Majalengka",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-7.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Sumbing",
+          "imageUrl": "/images/mt_sumbing.jpg",
+          "country": "Central Java",
+          "city": "Wonosobo",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-8.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Arjuno",
+          "imageUrl": "/images/mt_arjuno.jpg",
+          "country": "East Java",
+          "city": "Malang",
           "isPopular": true
         }
       ]
@@ -144,34 +144,34 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-9.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Bawakaraeng",
+          "imageUrl": "/images/mt_bawakaraneg.jpg",
+          "country": "South Sulawesi",
+          "city": "Gowa",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-10.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Latimojong",
+          "imageUrl": "/images/mt_latimojong.jpg",
+          "country": "South Sulawesi",
+          "city": "Enrekang",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-11.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Klabat",
+          "imageUrl": "/images/mt_klabat.jpg",
+          "country": "North Sulawesi",
+          "city": "North Minahasa",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-12.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "MT Gendang Dewa",
+          "imageUrl": "/images/mt_gendangdewa.jpg",
+          "country": "West Sulawesi",
+          "city": "Mamasa",
           "isPopular": false
         }
       ]
