@@ -79,5 +79,6 @@ Button.propTypes = {
     isLarge: propTypes.bool,
     isBlock: propTypes.bool,
     isEksternal: propTypes.bool,
+    isPrimary: propTypes.bool,
     hasShadow: propTypes.bool
 };
