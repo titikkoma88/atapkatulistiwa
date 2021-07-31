@@ -12,7 +12,7 @@ export default function Button(props) {
 
     const onClick = () => {
         if (props.onClick) props.onClick()
-    } 
+    }; 
 
     if (props.isDisabled || props.isLoading){
         if (props.isDisabled) className.push("disabled")
