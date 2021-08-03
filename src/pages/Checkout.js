@@ -51,7 +51,7 @@ class Checkout extends Component {
     
     const payload = new FormData();
     payload.append("firstName", data.firstName);
-    payload.append("lastNames", data.lastName);
+    payload.append("lastName", data.lastName);
     payload.append("email", data.email);
     payload.append("phoneNumber", data.phone);
     payload.append("itemId", checkout._id);
