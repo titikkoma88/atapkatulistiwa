@@ -22,7 +22,7 @@ class LandingPage extends Component {
 
     if (!this.props.page.landingPage)
       this.props.fetchPage(
-        `https://admin-atapkatulistiwa.herokuapp.com/api/v1/member/landing-page`,
+        `/landing-page`,
         "landingPage"
       );
   }
