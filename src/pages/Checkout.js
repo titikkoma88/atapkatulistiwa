@@ -54,7 +54,7 @@ class Checkout extends Component {
     payload.append("lastName", data.lastName);
     payload.append("email", data.email);
     payload.append("phoneNumber", data.phone);
-    payload.append("itemId", checkout._id);
+    payload.append("idItem", checkout._id);
     payload.append("duration", checkout.duration);
     payload.append("bookingStartDate", checkout.date.startDate);
     payload.append("bookingEndDate", checkout.date.endDate);
@@ -168,7 +168,7 @@ class Checkout extends Component {
                     type="link"
                     isBlock
                     isLight
-                    href={`/properties/${ItemDetails._id}`}
+                    href={`/properties/${checkout._id}`}
                   >
                     Cancel
                   </Button>
