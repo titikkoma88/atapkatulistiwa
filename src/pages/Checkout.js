@@ -80,7 +80,7 @@ class Checkout extends Component {
             style={{ height: "100vh" }}
           >
             <div className="col-3">
-              OOps.. Choose Destinations
+              Oops.. you have to start booking
               <div>
                 <Button
                   className="btn mt-5"
