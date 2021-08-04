@@ -33,7 +33,7 @@ export default function Hero(props) {
                         Show Me Now
                     </Button>
 
-                    <div className="row" style={{ marginTop: 80 }}>
+                    <div className="row" style={{ marginTop: 80, marginBottom: 35 }}>
                         <div className="col-auto" style={{ marginRight: 35 }}>
                             <img 
                                 width="36"
